@@ -1,0 +1,19 @@
+{
+  "name": "node_js_practice",
+  "version": "1.0.0",
+  "description": "tutorial for using node js",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "path": "^0.12.7",
+    "socket.io": "^1.5.1",
+    "underscore": "^1.8.3"
+  }
+}
